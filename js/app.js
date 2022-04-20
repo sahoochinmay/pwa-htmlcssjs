@@ -8,7 +8,7 @@ const coffees = [
   { name: " Vitae", image: "images/coffee6.jpg" },
   { name: "Inventore", image: "images/coffee7.jpg" },
   { name: "Veritatis", image: "images/coffee8.jpg" },
-  { name: "Accusantium", image: "images/coffee9.jpg" },
+//   { name: "Accusantium", image: "images/coffee9.jpg" },
 ];
 
 const showCoffees = () => {
